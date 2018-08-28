@@ -1,0 +1,115 @@
+body {
+	background-color: #d1e4ff;
+	margin: 0 0 0 0;
+	text-align: center;
+}
+
+.content {
+	background-color: #fff;
+	width: 980px;
+	display: inline-block;
+	text-align: left;
+	padding: 78px 30px 66px 30px;
+	font-family: Arial, Serif;
+	font-size: 16px;
+}
+
+.content h1 {
+	margin-top: 0;
+	text-transform: uppercase;
+	font-size: 42px;
+}
+
+.content h2 {
+	margin-top: 0;
+	text-transform: uppercase;
+	font-size: 36px;
+}
+
+.content h3 {
+	margin-top: 0;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+.content h4 {
+	margin-top: 0;
+	font-size: 26px;
+}
+
+.content h5 {
+	margin-top: 0;
+	font-size: 20px;
+}
+
+.content h6 {
+	margin-top: 0;
+	font-size: 16px;
+}
+
+.content code {
+	background-color: #f0e6d6;
+}
+
+.content kbd {
+	background-color: #eadcea;
+}
+
+.content samp {
+	background-color: #eadcdc;
+}
+
+.content blockquote {
+	background-color: #eadcea;
+	border-left: 4px solid #b496b4;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 34px;
+	width: auto;
+}
+
+.content blockquote code {
+	background-color: #eadcea;
+}
+
+.content pre {
+	background-color: #f0e6d6;
+}
+
+.content a {
+	color: #2780e3;
+}
+
+.content dt {
+	font-family: Arial;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.content table {
+	table-layout: fixed;
+	border: 1px solid #b496b4;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.content thead tr {
+	background-color: #eadcea;
+	text-align: center;
+	height: 2em;
+}
+
+.content thead td {
+	border: 1px solid #b496b4;
+}
+
+.content tbody tr {
+	height: 2em;
+
+}
+
+.content tbody td {
+	border: 1px solid #b496b4;
+	padding-left: 13px;
+}
+
