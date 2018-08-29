@@ -1,15 +1,22 @@
+@font-face {
+    font-family: Arial; /* Имя шрифта */
+    src: url(./fonts/Arial.woff); /* Путь к файлу со шрифтом */
+}
+
 body {
 	background-color: #d1e4ff;
 	text-align: center;
 	width: 100%;
+	margin: 0;
 }
 
 .content {
 	background-color: #fff;
-	width: 51.04%;
+	width: 90%;
+	max-width: 980px;
 	display: inline-block;
 	text-align: left;
-	padding: 78px 30px 66px 30px;
+	padding: 36px 30px 66px 30px;
 	font-family: Arial, Sans-Serif;
 	font-size: 16px;
 }
@@ -80,7 +87,7 @@ body {
 }
 
 .content dt {
-	font-family: Arial;
+	font-family: sans-serif;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -113,6 +120,6 @@ body {
 }
 
 .content p {
-	margin: 16px 0 0 16px;
+	margin: 16px 0;
 }
 
